@@ -1,0 +1,21 @@
+Stajnia:Dziedziniec,Zbrojownia
+Dziedziniec:Stajnia,Zbrojownia,Most zwodzony,Westybul
+Zbrojownia:Dziedziniec,Stajnia,Wieża
+Most zwodzony:Dziedziniec,Kryjówka szczurów
+Westybul:Dziedziniec,Sala tronowa,Sala wielka,Wieża,Podziemie,Hol
+Sala tronowa:Westybul,Sypialnia,Studium
+Sala wielka:Westybul,Kuchnia
+Wieża:Westybul,Komnata maga,Zbrojownia
+Podziemie:Westybul,Więzienie,Krypta
+Hol:Westybul,Pokój północny,Pokój zachodni
+Pokój północny:Hol
+Pokój zachodni:Hol
+Więzienie:Podziemie,Kryjówka szczurów
+Krypta:Podziemie
+Komnata maga:Wieża
+Sypialnia:Sala tronowa,Studium
+Studium:Sypialnia,Sala tronowa,Biblioteka
+Biblioteka:Studium
+Kuchnia:Sala wielka,Spichlerz
+Spichlerz:Kuchnia,Kryjówka szczurów
+Kryjówka szczurów:Spichlerz,Most zwodzony,Więzienie

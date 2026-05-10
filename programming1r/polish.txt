@@ -1,0 +1,45 @@
+Czytając rozdział “Elementarna taktyka” początkujący szachista zapoznał 
+się ze względną wartością różnych bierek oraz uzyskał pewien pogląd na 
+możliwości ich wzajemnej współpracy. Niemniej, podstawowa zasada 
+strategii szachowej – odpowiednie wykorzystywanie specyficznych dla 
+danej bierki właściwości w celu umożliwienia jej maksymalnie 
+efektywnego działania, pozostaje dla niego wciąż sekretem.
+
+Na początku partii skoczki są jedynymi figurami, które mogą poruszać 
+się swobodnie, tak więc inne figury nie przedstawiają siły bojowej, 
+dopóki piony nie otworzą dla nich dróg wyjścia. Pierwszą rzeczą, o 
+której należy pamiętać jest zasada nakazująca wykonywać w otwarciu 
+tylko takie ruchy pionami, które otwierają drogę własnym figurom, bądź 
+blokują drogę figurom przeciwnika. Powody ku temu są następujące:
+
+W każdej walce przewagę zyskuje ten gracz, który posiada więcej figur 
+zdolnych do działania na polu bitwy. Kiedy analizujemy typowe pozycje 
+omawiane w poprzednim rozdziale, uderza fakt zdecydowanej lokalnej 
+przewagi materialnej strony wygrywającej. W pewnych przypadkach może 
+ona dokonać poświęcenia dużej ilości materiału i mimo wszystko posiadać 
+jeszcze na tyle dużą przewagę (lokalnie), aby przeprowadzić finalny 
+atak na króla nieprzyjaciela. To samo odnosi się do kombinacji, których 
+cele są często skromniejsze niż mat; gracz dysponujący większą liczbą 
+bierek mogących brać udział w potyczce, wyjdzie z niej zwycięsko; gracz 
+atakujący mniejszą liczbą bierek niż posiada do obrony strona 
+przeciwna, nie powinien mieć nadziei na sukces.
+
+Ważnym czynnikiem jest więc takie rozmieszczenie sił, aby były w 
+gotowości do skoncentrowania się w tej części szachownicy, gdzie będą 
+akurat najbardziej potrzebne.
+
+Co więcej, istotne jest umieszczenie tych sił na stosownych pozycjach w 
+najkrótszym możliwym czasie –- to znaczy przy użyciu najmniejszej 
+możliwej liczby posunięć –- jako, że marnotrawienie posunięć na ruchy 
+nie mające związku z planowaną koncentracją wojsk da przeciwnikowi 
+możliwość zgromadzenia przeważających sił w odpowiednim miejscu 
+szachownicy i przeprowadzenia kontrataku z dużą szansą powodzenia, 
+zanim nadejdą nasze posiłki.
+
+Mając te cele na uwadze, łatwo można zrozumieć, że nie bez znaczenia 
+jest rodzaj ruchów wykonywanych pionami w otwarciu. Sam fakt 
+umożliwienia figurze wyjścia to jeszcze za mało. W miarę możliwości 
+należy poszukiwać takich posunięć pionami, które otwierają drogę 
+wyjścia od razu dla więcej niż jednej figury, ponieważ dają one 
+przewagą w rozwoju (chyba, że przeciwnik wykonuje równie dobre 
+posunięcia).

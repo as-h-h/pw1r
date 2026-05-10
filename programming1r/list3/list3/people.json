@@ -1,0 +1,30 @@
+{
+  "cities": [
+    {"name": "Warszawa", "population": 1860000},
+    {"name": "Kraków", "population": 804000},
+    {"name": "Łódź", "population": 670000},
+    {"name": "Wrocław", "population": 674000},
+    {"name": "Poznań", "population": 540000},
+    {"name": "Gdańsk", "population": 486000}
+  ],
+  "people": [
+    {"id": 1, "name": "Jan", "surname": "K.", "age": 34, "city": "Warszawa", "knows": [2, 8, 18]},
+    {"id": 2, "name": "Anna", "surname": "M.", "age": 28, "city": "Kraków", "knows": [1, 10]},
+    {"id": 3, "name": "Piotr", "surname": "S.", "age": 45, "city": "Wrocław", "knows": [4, 14]},
+    {"id": 4, "name": "Katarzyna", "surname": "W.", "age": 31, "city": "Poznań", "knows": [3, 12]},
+    {"id": 5, "name": "Marek", "surname": "D.", "age": 52, "city": "Łódź", "knows": [17]},
+    {"id": 6, "name": "Agnieszka", "surname": "P.", "age": 26, "city": "Gdańsk", "knows": [15]},
+    {"id": 7, "name": "Tomasz", "surname": "L.", "age": 39, "city": "Szczecin", "knows": [1, 13]},
+    {"id": 8, "name": "Magdalena", "surname": "Z.", "age": 41, "city": "Warszawa", "knows": [1, 9, 18]},
+    {"id": 9, "name": "Paweł", "surname": "C.", "age": 23, "city": "Lublin", "knows": [8]},
+    {"id": 10, "name": "Joanna", "surname": "G.", "age": 36, "city": "Kraków", "knows": [2, 11]},
+    {"id": 11, "name": "Krzysztof", "surname": "B.", "age": 47, "city": "Katowice", "knows": [10, 13]},
+    {"id": 12, "name": "Ewa", "surname": "N.", "age": 29, "city": "Poznań", "knows": [4, 16]},
+    {"id": 13, "name": "Andrzej", "surname": "T.", "age": 55, "city": "Bydgoszcz", "knows": [7, 11]},
+    {"id": 14, "name": "Natalia", "surname": "R.", "age": 22, "city": "Wrocław", "knows": [3, 15]},
+    {"id": 15, "name": "Łukasz", "surname": "F.", "age": 33, "city": "Gdańsk", "knows": [6, 14]},
+    {"id": 16, "name": "Karolina", "surname": "H.", "age": 27, "city": "Rzeszów", "knows": [12]},
+    {"id": 17, "name": "Michał", "surname": "J.", "age": 38, "city": "Łódź", "knows": [5]},
+    {"id": 18, "name": "Zofia", "surname": "A.", "age": 44, "city": "Warszawa", "knows": [1, 8]}
+  ]
+}
