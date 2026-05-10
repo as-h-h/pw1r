@@ -1,0 +1,33 @@
+#! /usr/bin/env bash
+
+INCOMING="inbox"
+OUTCOMING="classified"
+
+# tworzymy katalog wyściowy jeśli go nie ma
+mkdir -p "$OUTCOMING"
+
+for file in "$INCOMING"/*; do
+    # continue jeśli katalog jest pusty ($file to doslownie "inbox/*") lub $file nie jest plikiem
+    [ -f "$file" ] || continue
+
+	# $category będzie wyjściem komendy z nawiasów
+	# pipeline: "CATEGORY: abcd\n" -> " abcd\n" -> "abcd"
+	# gdzie "\n" to symbol końca linii
+    category=$(grep -i '^CATEGORY:' "$file" | cut -d':' -f2 | tr -d '[:space:]')
+
+	# jeśli plik nie miał linijki opisującej kategorię tzn. ($category jest puste), nastawiamy kategorię na "unknown"
+    if [[ -z "$category" ]]; then
+        category="unknown"
+    fi
+
+	# tworzymy katalog wyściowy dla danej kategorii jeśli go nie ma
+    mkdir -p "$OUTCOMING/$category"
+
+	# kopiujemy plik to katalogu właściwego dla jego kategorii
+    cp "$file" "$OUTCOMING/$category"/
+
+    echo "Copied $(basename "$file") → $OUTCOMING/$category/"
+done
+
+echo "Classification complete."
+
